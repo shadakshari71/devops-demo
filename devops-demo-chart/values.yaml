@@ -1,5 +1,5 @@
 # Number of pod replicas
-replicaCount: 2
+replicaCount: 5
 
 image:
   repository: YOUR_DOCKERHUB_USERNAME/devops-demo
