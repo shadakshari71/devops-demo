@@ -1,9 +1,9 @@
 # Number of pod replicas to run
-replicaCount: 2
+replicaCount: 5
 
 image:
   repository: raj1972/devops-demo
-  tag: v1.0.0
+  tag: v1.1.0
   pullPolicy: IfNotPresent  # Only pull if not already on the node
 
 service:
